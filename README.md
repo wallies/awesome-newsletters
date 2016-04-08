@@ -4,7 +4,7 @@ A curated list of awesome newsletters.
 
 Inspired by the `awesome-*` trend on GitHub.
 
-The goal is to build a categorized community-driven collection of very well-known resources.
+The goal is to build a categorized community-driven collection of very well-known development newsletters.
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/wallies/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
 
