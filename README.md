@@ -161,11 +161,15 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 * [CouchDB Weekly](http://blog.couchdb.org/). Weekly news, surveys and discussions related to CouchDB.
 
 ## Backend Development
-### Docker
+
+### Containers
 * [Docker Weekly](https://www.docker.com/newsletter-subscription). Weekly newsletter filled with great updates from Docker, our users and ecosystem.
 
 ### Devops
 * [DevOps Weekly](http://www.devopsweekly.com/). A weekly slice of devops news.
+* [SRE Weekly](http://sreweekly.com). SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible.
+* [Monitoring Weekly](https://weekly.monitoring.love/). Helps DevOps Engineers, Site Reliability Engineers, system administrators, and software engineers improve the monitoring of their applications and infrastructure.
+* [Resilience Weekly](https://resilienceweekly.com). Each week I'll take you along on my journey as I scour the internet to learn more about resilience, whether that is in systems, technology, or people. 
 * [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/). The best DevOps links of the week delivered to your inbox
 every Sunday in the form of the DevOps newsletter.
 * [Sysadmin Casts](https://sysadmincasts.com/get-notified). Sysadmin Casts - bite-sized sysadmin screencasts (released weekly).
@@ -179,6 +183,8 @@ every Sunday in the form of the DevOps newsletter.
 ### Cloud Development
 * [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
 * [Your weekly Azure news fix](http://azureweekly.info/). Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
+* [The Software Architects' Newsletter](https://www.infoq.com/architects-newsletter?utm_source=infoqEmail&utm_medium=editorial&utm_campaign=ArchitectNL&utm_content=10262018). The InfoQ Architects' Newsletter is your monthly guide to all the topics, technologies and techniques that every professional or aspiring software architect needs to know about.
+* [Security Newsletter](https://securitynewsletter.co/). Breaches, leaks and all your security news
 
 ### Configuration Management
 * [Briefs On Ansible](https://valdhaus.co/newsletters/ansible/). "Briefs on Ansible" is an unofficial newsletter that sends you updates on the top news in the Ansible community.
@@ -194,6 +200,9 @@ every Sunday in the form of the DevOps newsletter.
 * [Data Science Weekly Newsletter](http://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
 * [Hadoop Weekly](https://www.hadoopweekly.com/). Summary of the week's top news in the Apache Hadoop™ ecosystem.
 
+## Blockchain
+* [Bitcoin Weekly](http://bitcoinweekly.com/). A weekly round-up of Bitcoin and cryptocurrency news and articles.
+
 ## Technology in General
 * [Barista.io](http://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
 * [Four Short Links](http://radar.oreilly.com/four-short-links). 4 short links about (mostly research oriented) technology every weekday.
@@ -203,12 +212,13 @@ every Sunday in the form of the DevOps newsletter.
 * A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
 * Inspiration in your inbox by [TED](https://www.ted.com/newsletter).
 * Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters).
-* [Bitcoin Weekly](http://bitcoinweekly.com/). A weekly round-up of Bitcoin and cryptocurrency news and articles.
 * [RaspPi Weekly](raspiweekly.com). A free weekly newsletter featuring curated news, articles, cool projects, tools and libraries etc related to Raspberry Pi.
+* [Outl
 * [HackerNewsLetter](http://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
 * [Stack Exchange Newsletters](http://stackexchange.com/newsletters). Search Stack Exchange for any and all newsletters.
 * [The ChangeLog Weekly](https://changelog.com/weekly/). A weekly newsletter, covering everything that hits open source radar.
 * [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
+* [Outlier Ventures](https://outlierventures.io/news/). We invest and partner with tokenised communities that are creating the new decentralised economy
 * [Reddit's Official Newsletter](https://www.reddit.com/newsletter). Best of reddit's content curated, packaged, and delivered to your inbox once a week.
 * [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
 * [Web Audio Weekly](http://blog.chrislowis.co.uk/waw.html). A weekly newsletter for people are interested in the Web Audio API, the Web MIDI API, or sound on the web in general.
