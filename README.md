@@ -209,6 +209,7 @@ every Sunday in the form of the DevOps newsletter.
 * [The Morning Paper](http://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 
 ## Etc.
+* [Figures](https://joinfigures.com/). Receive high-paying tech jobs based on your minimum salary requirement.
 * A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
 * Inspiration in your inbox by [TED](https://www.ted.com/newsletter).
 * Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters).
